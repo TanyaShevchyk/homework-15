@@ -266,6 +266,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 
+    
+
     // Лекції
     // let fruits = ["Яблоко", "Апельсин", "Груша", "Лимон"];
     // for (i = 0; i < fruits.length; i++) {
