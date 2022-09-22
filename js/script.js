@@ -230,7 +230,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     for (let p = 2; p <= 9; p++) {
         for (r = 1; r <= 10; r++) {
-            let res = p * i;
+            let res = p * r;
             console.log(`${p} * ${r} = ${res}`);
         };
     }
